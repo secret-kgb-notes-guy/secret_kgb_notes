@@ -1,0 +1,109 @@
+https://www.nytimes.com/2016/11/04/us/fbi-james-comey-hillary-clinton.html
+	Sorting Through the Clinton Email Case and What the F.B.I.’s Options Are
+
+	By ADAM GOLDMAN and MICHAEL S. SCHMIDT  NOV. 3, 2016 
+
+	The F.B.I. needed custom software to allow them to read Mr. Weiner’s emails without viewing hers. But building that program took two weeks, causing the delay. The program ultimately showed that there were thousands of Ms. Abedin’s emails on the laptop.
+
+So says FBI was building custom software to read Weiner but not Abedin emails.
+
+why not ask for a warrant then? easier than custom software, no?
+
+
+
+https://www.wired.com/2016/11/yes-donald-trump-fbi-can-vet-650000-emails-eight-days/
+	"This is not rocket science," says Jonathan Zdziarski, a forensics expert who's consulted for law enforcement and worked as a systems administrator. "Eight days is more than enough time to pull this off in a responsible way."
+
+	One former FBI forensics expert even tells WIRED he's personally assessed far larger collections of data, far faster. "You can triage a dataset like this in a much shorter amount of time," says the former agent, who asked to remain anonymous to avoid any political backlash.
+
+	In this case in particular, forensics experts say, investigators' jobs might even be particularly easy: Because the new collection of emails under investigation were taken from the laptop of Anthony Weiner, the husband of Clinton Aide Huma Abedin, only a portion of those emails would be messages sent to or from Clinton or anyone else on the campaign rather than those sent to or from Weiner's contacts. Simple filtering by "to:" or "from:" could cut out hundreds of thousands of messages.
+
+	Next, the agents could filter out duplicate emails from those they'd already analyzed in their months-long investigation earlier this year. According to multiple media reports, the vast majority of emails the FBI examined over the last week were, in fact, duplicates. Those copies could be spotted by their message ID, points out Zdziarski, a unique alphanumeric identifier for each email. Or if any duplicate messages somehow had different message IDs---say, because they had been copied into replies or forwarded---the FBI agents could use a forensics tool like Encase or AccessData Forensics Tool Kit to make cryptographic "hashes" of full messages or chunks of them.
+
+
+right, so software already exists, not hard
+
+	In fact, according to the former agent who spoke with WIRED, the FBI has tools to quickly identify indicators of classified documents in a large corpus of data. Zdziarski compares those tools to the software that checks for plagiarism, but instead checks for matches or near-matches in text with a collection of classified material. And the FBI could also search for keywords to prioritize reading any new messages about subjects they'd already pursued in their previous investigation of Clinton's emails.
+
+
+tools for that too
+
+	The real question, wrote cybersecurity consultant Rob Graham in his blog, isn't how the FBI managed to conclude its investigation in eight days. It's how it managed to take so long. "Computer geeks have tools that make searching the emails extremely easy," wrote Graham. "Given those emails, and a list of known email accounts from Hillary and associates, and a list of other search terms, it would take me only a few hours to reduce the workload from 650,000 emails to only a couple hundred, which a single person can read in less than a day."
+
+actually took longer than it should have
+
+
+https://www.nytimes.com/2016/11/08/us/politics/hillary-clinton-donald-trump-fbi-emails.html?_r=0
+	That number got even smaller relatively quickly. Many of the emails were copies of messages that agents had examined earlier while investigating Mrs. Clinton and her aides. Again, it’s not clear how many were duplicates, but law enforcement officials say it was a substantial number. Filtering software can ferret out duplicates from far larger databases than Mr. Weiner’s hard drive. That could have sped up the review, because the duplicates didn’t need to be examined again, but F.B.I. employees would still have had to personally vet new emails.
+
+
+	...Why didn’t the government tell us this would only take a week?
+
+	The F.B.I. was reluctant to predict how long the review would take, repeatedly trying to lower the public’s expectation that it could finish before Election Day. Even though the number of emails seemed manageable early in the week, there was a chance that agents would discover something along the way that would require extensive follow-up.
+
+saying they didn't want to predict how long it would take "just in case"
+
+
+
+------
+
+
+http://www.politico.com/blogs/under-the-radar/2017/04/27/hillary-clinton-emails-subpoenas-fbi-237712
+	"The FBI...obtained grand jury subpoenas related to the Blackberry e-mail accounts, which produced no responsive materials, as the requested data was outside the retention time utilized by those providers," FBI Assistant Director for the Counterintelligence Division E.W. Priestap wrote in a declaration filed Monday in federal court in Washington.
+
+Subpeonad blackberry email accounts
+
+but "outside archive time"
+
+she also destroyed devices
+
+interesting
+
+
+http://www.newsweek.com/what-fbi-found-emails-anthony-weiner-laptop-517652
+	The night of the disclosure, Newsweek reported that the emails were from as many as three accounts—one through Yahoo, one on the domain clintonemail.com, and one from an account Abedin used in support of one of Weiner’s campaigns for office. Last week, Newsweek learned that that account was through Gmail. In other words, Abedin’s personal account provided by the State Department for non-classified emails was not involved. Abedin, who did not know Clinton used a private server for her emails, told the bureau in an April interview that she used the account on the clintonemail.com domain only for issues related to the secretary’s personal affairs, such as communicating with her friends. For work-related records, Abedin primarily used the email account provided to her by the State Department.
+
+	From the information obtained that first day by Newsweek, it was already clear that, because of the accounts involved, almost all of the documents were going to be duplicates or personal emails. In other words, from the opening moments of this inquiry, there were people in government who already knew what the outcome of this new FBI effort would be, yet it took the bureau another nine days to confirm those details.
+
+
+------
+
+http://www.dailykos.com/story/2016/12/20/1613136/-FBI-might-have-known-emails-were-duplicate-before-sending-the-letter-or-asking-for-a-search-warrant
+
+this guy gets it, more or less
+
+
+
+http://schoenberg.com/Clinton/search%20warrant.pdf
+
+pg 7
+
+reveiwing multiple devices/"items" of classified info for Clinton, one is server
+
+	However, as with any case, if new, pertinent information comes to light after an investigation is completed, the FBI will take appropriate investigative steps to determine the significance of that information.
+
+
+found emails that looked like Clinton's, basically
+
+using header information
+
+pg 15
+
+
+------
+
+
+And it has also been reported that filtering-out these duplicates using software is common and easy, and that the FBI has software for this:
+
+
+https://www.wired.com/2016/11/yes-donald-trump-fbi-can-vet-650000-emails-eight-days/
+	"This is not rocket science," says Jonathan Zdziarski, a forensics expert who's consulted for law enforcement and worked as a systems administrator. "Eight days is more than enough time to pull this off in a responsible way."
+
+	One former FBI forensics expert even tells WIRED he's personally assessed far larger collections of data, far faster. "You can triage a dataset like this in a much shorter amount of time," says the former agent, who asked to remain anonymous to avoid any political backlash.
+
+	...Next, the agents could filter out duplicate emails from those they'd already analyzed in their months-long investigation earlier this year. According to multiple media reports, the vast majority of emails the FBI examined over the last week were, in fact, duplicates. Those copies could be spotted by their message ID, points out Zdziarski, a unique alphanumeric identifier for each email. Or if any duplicate messages somehow had different message IDs---say, because they had been copied into replies or forwarded---the FBI agents could use a forensics tool like Encase or AccessData Forensics Tool Kit to make cryptographic "hashes" of full messages or chunks of them.
+
+	...In fact, according to the former agent who spoke with WIRED, the FBI has tools to quickly identify indicators of classified documents in a large corpus of data. Zdziarski compares those tools to the software that checks for plagiarism, but instead checks for matches or near-matches in text with a collection of classified material.
+
+
+

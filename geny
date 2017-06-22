@@ -1,0 +1,10 @@
+apt-get install linux-headers-4.8.0-kali2-all-amd64
+
+
+
+https://www.virtualbox.org/wiki/Download_Old_Builds_5_0
+debian stretch
+
+
+mv libxcb.so.1 libxcb.so.1.bak
+mv libdrm.so.2 libdrm.so.2.bak
