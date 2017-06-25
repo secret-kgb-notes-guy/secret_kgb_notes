@@ -4622,13 +4622,6 @@ http://abcnews.go.com/Politics/full-transcript-abcs-david-muir-interviews-hillar
 
 
 
-Clinton said there was "no classified information" on her server, but this is false: there were 193 classified email chains, 7 classified at the "Special Access Program" level. Clinton had reason to believe classified information was on her server--she asked Jake Sullivan as much, she knew she was discussing things that should be classified like drone strikes and North Korea's nuclear program and drone strikes, and even Comey conceded that she was at least not unsophisticated in identifying classified information. 
-
-193 class 7 SAP
-
----
-
-
 All this brings up some questions, like:
 
 
@@ -4636,7 +4629,7 @@ All this brings up some questions, like:
 https://www.google.com/search?q=information+marked+classified+confusion&tbs=cdr%3A1%2Ccd_min%3A3%2F1%2F2015%2Ccd_max%3A11%2F8%2F2016 and you'll see what I mean).
 
 
-- How is it that, after lecturing the American public on classification markings, Clinton knows what "(SBU)" means, but when the FBI asks here what but "(C)" means she tells them it's referencing paragraphs marked in alphabetical order? There was no "(A)" or "(B)" in the short email they showed her, and it was even marked Confidential in big letters on the top and bottom. Clinton has seen emails that mix both "(SBU)" and "(C)" markings (apparently, the alphabet goes "C, SBU, SBU, SBU...") and she's written thousands of cables that use both.
+- How is it that, after lecturing the American public on classification markings, Clinton knows what "(SBU)" means, but when the FBI asks here what but "(C)" means she tells them it's referencing paragraphs marked in alphabetical order? There was no "(A)" or "(B)" in the short email they showed her, and it was even marked Confidential in headers on the top and bottom. Clinton has seen emails that mix both "(SBU)" and "(C)" markings (apparently, the alphabet goes "C, SBU, SBU, SBU...") and she's written thousands of cables that use both.
 
 
 - Why did Comey go along with Clinton's "(C) is just a letter in the alphabet" story? He told (or implied) to Congress he's "not sure" if Clinton knew "(C)" means "Confidential," but when the question of Clinton's sophistication came up later in his testimony, Comey said "Well, I was talking about technical sophistication," as if to change his story. Comey testified that Clinton signed-off on being briefed on the handling of classified information and "executed that document." So, is she sophisticated in handling classified information or not? Comey's testimony is unnecessarily vague.
@@ -4658,40 +4651,13 @@ https://fam.state.gov/fam/05fah01/05fah010610.html
 	Use this section to provide instructions on any written material to be left with the host government official(s).  Such material could take the form of an aide-memoire, a letter, or a “non-paper” that provides a written version of the verbal presentation (i.e., the talking points as delivered).  Unless otherwise instructed, post should normally provide an aide-memoire or non-paper at the conclusion of a demarche.  Classified aide-memoire or non-paper must be appropriately marked
 
 
-- Why did Comey remember that part of Clinton's FBI interview in detail, but was forgetful when asked to compare Clinton's public statements to her statements to the FBI? ("did she change her statements in that sworn testimony with you last Saturday? ...I haven’t gone through that to parse that…", "It’s a very long, 302. I’d have to check and then get back to you.", "COMEY: I’m not equipped sitting here without the 302 in front of me to answer in that broad…  MULVANEY: But it’s your — it’s your testimony…") He makes it sound like he's her defense lawyer.
+- Why did Comey remember that part of Clinton's FBI interview in detail, but was forgetful when asked to compare Clinton's public statements to her statements to the FBI? ("did she change her statements in that sworn testimony with you last Saturday? ...I haven’t gone through that to parse that…", "It’s a very long, 302. I’d have to check and then get back to you.", "COMEY: I’m not equipped sitting here without the 302 in front of me to answer in that broad…  MULVANEY: But it’s your — it’s your testimony…") He made it sound like he's her defense lawyer.
 
 
 - Comey testified there was "no direct evidence of an intrusion," but the FBI's report says there "appears" to have been "a successful compromise of an e-mail account on the server." Was Comey contradicting his own FBI?
 
 
-- Comey inserted an "intent" requirement (a "general mens rea requirement" as he puts it) into the law that only requires "gross negligence" to prosecute someone for mishandling classified information. Comey testified that false exculpatory statements show a guilty conscience and intent, but Clinton made several such statements to Congress and the public. She gave one to Jake Tapper in an interview ("maybe something has happened years later that there's a case and so now it's sensitive information. That's what's going on here.") and one to Pompeo ("POMPEO: Yes, ma'am. You're not supposed to have classified e- mail on your private server either. CLINTON: And I did not, Congressman.") in her testimony. Her statement to Pomeo came shortly after she was informed there was classified information on her server and immediately after agreeing (if at least implicitly) that classified information should not be stored in unauthorized locations. If Clinton is sophisticated in handling classified info, as Comey seems to have testified, then she knows her statements were false. Knowledge of classified information on her server can also be inferred by some of her statements in her emails ("If not classified or otherwise inappropriate...") and her statements to the FBI ("When asked whether CLINTON believed information should be classified if it is unauthorized release would cause damage to national security, she responded, 'yes, that is the understanding.'").
-
-Even if Comey's intent requirement is to be followed, there is evidence that Clinton had a guilty conscience, especially from her public statements. But Comey says he didn't review Clinton's statements before his recommendation to not indict:
-
-
-http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
-	WALKER: ...can you help me understand why didn’t it rise to your investigation or someone bringing that to your knowledge as far as saying this is a problem, here she is, again, Secretary Clinton lying under oath specifically about our investigation?
-
-	COMEY: We out of respect for the legislative branch being a separate branch, we do not commence investigations that focus on activities before Congress without Congress asking us...
-
-	...CHAFFETZ: You did not look at testimony that Hillary Clinton gave in the United State Congress, both the House and the Senate.
-
-	...Did you review and look at those transcripts as to the intent of your recommendation.
-
-	COMEY: I’m sure my folks did. I did not.
-
-
-Comey said his "folks" reviewed her statements, but he didn't meet with all of his agents before his recommendation: 
-
-
-http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
-	MICA: ...But all of the agents, did they meet with you and then is that the group that said that we all vote to not recommend prosecution?
-
-	COMEY: I did not meet with all of the agents. I’ve met with — I guess I’ve — I’ve met with all of them…
-
-
-Isn't this irresponsible? It sounds like Comey went off on his own with his recommendation without reviewing all the facts important to the case.
-
+- Comey inserted an "intent" requirement (a "general mens rea requirement" as he puts it) into the law that only requires "gross negligence" to prosecute someone for mishandling classified information. Comey testified that false exculpatory statements show a guilty conscience and intent, but Clinton made several such statements to Congress and the public. She gave one to Jake Tapper in an interview ("maybe something has happened years later that there's a case and so now it's sensitive information. That's what's going on here.") and one to Pompeo in her testimony ("POMPEO: Yes, ma'am. You're not supposed to have classified e- mail on your private server either. CLINTON: And I did not, Congressman."). Her statement to Pomeo came shortly after she was informed there was classified information on her server and immediately after agreeing (if at least implicitly) that classified information should not be stored in unauthorized locations. If Clinton is sophisticated in handling classified info, as Comey seems to have testified, then she knows her statements were false. Knowledge of classified information on her server can also be inferred by some of her statements in her emails ("If not classified or otherwise inappropriate...") and her statements to the FBI ("When asked whether CLINTON believed information should be classified if it is unauthorized release would cause damage to national security, she responded, 'yes, that is the understanding.'").
 
 
 Claim #2: Clinton's private server was allowed, and she set it up for "convenience:"
@@ -5045,7 +5011,8 @@ http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-co
 	As a citizen, I want people to show they knew they were breaking the law and then we’ll put you in jail.
 
 
-For whatever reason, Comey keeps switching between saying you have to "know you were doing something wrong" or "know you were breaking the law" to be prosecuted for gross negligence throughout his testimony. Since the idea that you have to "know you were breaking the law" to be guilty of breaking the law is absurd (https://en.wikipedia.org/wiki/Ignorantia_juris_non_excusat), we'll assume Comey meant you have to "know you were doing something wrong" to break the law, e.g. "consciousness of guilt" (which is also absurd https://en.wikipedia.org/wiki/Negligent_homicide, but anyway...). Even still, Comey's defense of Clinton doesn't hold up.
+
+For whatever reason, Comey keeps switching throughout his testimony between saying you have to "know you were doing something wrong" or "know you were breaking the law" to be prosecuted for gross negligence. Since the idea that you have to "know you were breaking the law" to be guilty of breaking the law is absurd (https://en.wikipedia.org/wiki/Ignorantia_juris_non_excusat), we'll assume Comey meant you have to "know you were doing something wrong" to break the law, e.g. "consciousness of guilt" (which is also absurd https://en.wikipedia.org/wiki/Negligent_homicide, but anyway...). Even still, Comey's defense of Clinton doesn't hold up.
 
 From her public statements, it looks like Clinton really wants people to know her private server was "allowed," "totally above board," and "for convenience:"
 
@@ -5571,7 +5538,7 @@ https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2002%20of
 	...CLINTON expected her team to provide any work-related or arguably work-related emails to State; however, she did not participate in the development of the specific process to be used or discussions of the locations where her emails might exist. Additionally, CLINTON was not consulted on specific emails as to their content being work-related or not.
 
 
-This would open-up the opportunity for Clinton to abuse attorney-client privilege and direct them to delete federal records she wouldn't want made public (although there is one relevant exception http://www.huffingtonpost.com/brad-reid/the-crime-fraud-exception_b_8806598.html). Clinton's lawyers at least seemed to have attorney-client privilege in mind:
+This would open-up the opportunity for Clinton to abuse attorney-client privilege and direct her lawyers to delete federal records she wouldn't want made public (although there is one relevant exception http://www.huffingtonpost.com/brad-reid/the-crime-fraud-exception_b_8806598.html). Clinton's lawyers at least seemed to have attorney-client privilege in mind:
 
 
 https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2004%20of%2010/view
@@ -5582,7 +5549,7 @@ https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2004%20of
 	...According to [REDACTED] SAMUELSON deleted CLINTON's personal emails from the original 60,000 resulting in the 30,490 emails eventually turned over to the FBI.
 
 
-Clinton's lawyers told the FBI they deleted Clinton's "personal" emails (some of which were later found to be work-related), but Comey had trouble relaying that to Congress:
+Clinton's lawyers told the FBI they deleted Clinton's "personal" emails--thousands of which were later found to be work-related--but Comey had trouble relaying that to Congress:
 
 
 http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
@@ -5649,11 +5616,11 @@ https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2004%20of
 	...Both [REDACTED] and TURNER admitted that the emails contained on these laptops had been viewed by attorneys who did not have a security clearance at the time they reviewed the material. TURNER said the emails did not contain classification markers and thus they were not aware that they were classified at the time.
 
 
-Clinton had reason to believe there was classified information on her server. Even still, she knowingly gave people without a security clearance access to this information (and with an expectation that they would access this information), which is a felony. Comey said this is OK because Clinton's "intent" was "to get good legal representation and to make the production to the State Department," which "can be a very tall order, in that circumstance."
+Clinton had reason to believe there was classified information on her server. Even still, she gave people without a security clearance access to this information (and with an expectation that they would access this information), which is a felony. Comey said this is OK because Clinton's "intent" was "to get good legal representation and to make the production to the State Department," which "can be a very tall order, in that circumstance."
 
 That Clinton chose to use a convoluted, legally risky, and ultimately inadequate method for turning over her work-related emails could also be used to argue that Clinton intended to hide federal records on her email server from the public. There are other reasons to suspect this was Clinton's intent.
 
-The Clinton Foundation had come under scrutiny for some unusual patterns in its donations and lapses in transparency. Clinton had stepped down from her foundation, but her husband had not. When confronted a this, Clinton dodged the question and defended her foundation's conduct.
+The Clinton Foundation had come under scrutiny for some unusual patterns in its donations and lapses in transparency. Clinton had stepped down from her foundation, but her husband had not. When confronted with this, Clinton dodged the question and defended her foundation's conduct.
 
 
 Claim #4: The Clinton Foundation had "overwhelming disclosure:"
@@ -5763,15 +5730,28 @@ http://abcnews.go.com/Politics/hillary-clinton-republicans-talking/story?id=3045
 	CLINTON: Well, we're back into the political season, and therefore we will be subjected to all kinds of distractions and attacks, and I'm ready for that. I know that that comes, unfortunately, with the territory. It is, um, I think worth noting that uh, the Republicans seem to be, uh, talking only about me. I don't know what they'd talk about if I weren't in the race
 
 
+http://www.nytimes.com/2015/04/24/us/cash-flowed-to-clinton-foundation-as-russians-pressed-for-control-of-uranium-company.html
+	...And shortly after the Russians announced their intention to acquire a majority stake in Uranium One, Mr. Clinton received $500,000 for a Moscow speech from a Russian investment bank with links to the Kremlin that was promoting Uranium One stock.
+
+
 http://www.nytimes.com/2009/01/13/us/politics/13text-clinton.html
 	CLINTON:  ...In this particular case, the Office of Government Ethics and the career ethics officials at the State Department have looked at the rules and concluded there is not an inherent conflict of interest in any of my husband's work at all.
 
 	However, the foundation and the president-elect decided to go beyond what the law and the ethics rules call for to address even the appearance of conflict and that is why they signed a memorandum of understanding, which outlines the voluntary steps that the foundation is taking to address potential concerns that might come up down the road.
 
 
-http://www.nytimes.com/2015/04/24/us/cash-flowed-to-clinton-foundation-as-russians-pressed-for-control-of-uranium-company.html
-	...And shortly after the Russians announced their intention to acquire a majority stake in Uranium One, Mr. Clinton received $500,000 for a Moscow speech from a Russian investment bank with links to the Kremlin that was promoting Uranium One stock.
+http://www.nytimes.com/2009/01/13/us/politics/13text-clinton.html
+	...Uranium One began to snap up companies with assets in the United States. 
+	
+	...Still, the company’s story was hardly front-page news in the United States — until early 2008, in the midst of Mrs. Clinton’s failed presidential campaign, when The Times published an article revealing the 2005 trip’s link to Mr. Giustra’s Kazakhstan mining deal. It also reported that several months later, Mr. Giustra had donated $31.3 million to Mr. Clinton’s foundation.
 
+	...When ARMZ, an arm of Rosatom, took its first 17 percent stake in Uranium One in 2009, the two parties signed an agreement, found in securities filings, to seek the foreign investment committee’s review. But it was the 2010 deal, giving the Russians a controlling 51 percent stake, that set off alarm bells. 
+
+	...Senator John Barrasso, a Republican from Wyoming, where Uranium One’s largest American operation was, wrote to President Obama, saying the deal “would give the Russian government control over a sizable portion of America’s uranium production capacity.”
+
+	...Uranium One’s shareholders were also alarmed, and were “afraid of Rosatom as a Russian state giant”
+
+	...Two months later, the deal giving ARMZ a controlling stake in Uranium One was submitted to the Committee on Foreign Investment in the United States for review. Because of the secrecy surrounding the process, it is hard to know whether the participants weighed the desire to improve bilateral relations against the potential risks of allowing the Russian government control over the biggest uranium producer in the United States. The deal was ultimately approved in October, following what two people involved in securing the approval said had been a relatively smooth process.
 
 
 http://edition.cnn.com/TRANSCRIPTS/1606/08/acd.01.html
@@ -5792,15 +5772,18 @@ http://abcnews.go.com/Politics/bill-clinton-sought-state-department-paid-speeche
  	...The catch? The dictators of Congo and the Democratic Republic of the Congo would both be attending -- and required photos with Bill Clinton. The speaking fee? A whopping $650,000. 
 
 
-------
+http://abcnews.go.com/Politics/fobs-hillarys-state-dept-gave-special-attention-friends/story?id=42615379
+	'FOBs': How Hillary's State Dept. Gave Special Attention to 'Friends of Bill' After Haiti Quake
 
+ 	In a series of candid email exchanges with top Clinton Foundation officials during the hours after the massive 2010 Haiti earthquake, a senior aide to Secretary of State Hillary Clinton repeatedly gave special attention to those identified by the abbreviations “FOB” (friends of Bill Clinton) or “WJC VIPs” (William Jefferson Clinton VIPs).
 
-https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2003%20of%2010/view
-	pg 174
+	“Need you to flag when people are friends of WJC,” wrote Caitlin Klevorick, then a senior State Department official who was juggling incoming offers of assistance being funneled to the State Department by the Clinton Foundation. “Most I can probably ID but not all.” 
 
-	[REDACTED] was interviewed by Special Agent (SA) [REDACTED] and SA [REDACTED] at the Central Intelligence Agency (CIA)
+ 	“Is this a FOB!” Klevorick writes later, when a Clinton Foundation aide forwards a woman’s offer of medical supplies. “If not, she should go to cidi.org,” she adds, directing the person deemed not to be a Clinton friend to a general government website. 
 
-	...[REDACTED] concluded the interview by stating that DOS has shown an increased tendency to communicate via email. He believed that they did this for simplicity, to avoid unauthorized disclosures such as Wikileaks, and to prevent other USG partners from seeing their "back channel" discussions.
+	...However noble the motives of the officials working to get supplies into Haiti after the 2010 earthquake, numerous messages show a senior aide to then–Secretary of State Hillary Clinton coordinating with a Clinton Foundation official to identify FOBs. The Clintons have said repeatedly that the State Department never gave favorable treatment to foundation supporters in Haiti or anywhere else.
+
+	“Nothing was ever done for anybody because they were contributors to the foundation,” Bill Clinton told CBS News’ Charlie Rose in September. “Nothing.” 
 
 
 https://apnews.com/82df550e1ec646098b434f7d5771f625/many-donors-clinton-foundation-met-her-state
@@ -5833,6 +5816,14 @@ https://apnews.com/82df550e1ec646098b434f7d5771f625/many-donors-clinton-foundati
 	...Clinton ordered an aide: “Give to EAP rep,” referring the problem to the agency’s top east Asia expert.
 
 	...In another case, Clinton was host at a September 2009 breakfast meeting at the New York Stock Exchange that listed Blackstone Group chairman Stephen Schwarzman as one of the attendees. Schwarzman’s firm is a major Clinton Foundation donor, but he personally donates heavily to GOP candidates and causes. One day after the breakfast, according to Clinton emails, the State Department was working on a visa issue at Schwarzman’s request. In December that same year, Schwarzman’s wife, Christine, sat at Clinton’s table during the Kennedy Center Honors. Clinton also introduced Schwarzman, then chairman of the Kennedy Center, before he spoke.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2003%20of%2010/view
+	pg 174
+
+	[REDACTED] was interviewed by Special Agent (SA) [REDACTED] and SA [REDACTED] at the Central Intelligence Agency (CIA)
+
+	...[REDACTED] concluded the interview by stating that DOS has shown an increased tendency to communicate via email. He believed that they did this for simplicity, to avoid unauthorized disclosures such as Wikileaks, and to prevent other USG partners from seeing their "back channel" discussions.
 
 
 https://www.nytimes.com/2016/08/30/opinion/cutting-ties-to-the-clinton-foundation.html
@@ -5966,7 +5957,7 @@ https://judiciary.house.gov/wp-content/uploads/2016/09/114-91_22125.pdf
 
 	Mr.MARINO. Okay. When was—— 
 
-	Mr. COMEY. Those are lawyers’ laptops. That is a very com-plicated thing. I think they were able to navigate it pretty well to get us access. 
+	Mr. COMEY. Those are lawyers’ laptops. That is a very complicated thing. I think they were able to navigate it pretty well to get us access. 
 
 
 https://judiciary.house.gov/wp-content/uploads/2016/09/114-91_22125.pdf
@@ -5994,7 +5985,17 @@ https://www.bloomberg.com/news/articles/2016-06-22/clinton-foundation-said-to-be
 
 
 http://www.nytimes.com/2009/01/13/us/politics/13text-clinton.html
-	CLINTON: ...But I can absolutely guarantee you that I will keep a very close look on how this is being implemented. I will certainly do everything in my power to make sure that the good work of the foundation continues without there being any untoward effects on me and my service and be very conscious of any questions that are raised.
+	LUGAR: ...President Clinton is deservedly proud of the Clinton Foundation's good work in addressing HIV/AIDS, global poverty, climate change, and other pressing problems.
+
+	But the Clinton Foundation exists as a temptation for any foreign entity or government that believes it could curry favor through a donation. It also sets up potential perception problems with any action taken by the secretary of state in relation to foreign givers or their countries.
+
+	The nature of the secretary of state post makes recusal from specific policy decisions almost impossible, since even localized U.S. foreign policy activities can ripple across countries and continents. Every new foreign donation that is accepted by the foundation comes with the risk it will be connected in the global media to a proximate State Department policy or decision.
+
+	Foreign perceptions are incredibly important to United States foreign policy, and mistaken impressions or suspicions can deeply affect the actions of foreign governments toward the United States. Moreover, we do not want our own government's deliberations distracted by avoidable controversies played out in the media.
+
+	The bottom line is that even well-intentioned foreign donations carry risks for United States foreign policy. The only certain way to eliminate this risk going forward is for the Clinton foundation to forswear new foreign contributions when Senator Clinton becomes secretary of state.
+
+	...CLINTON: ...I can absolutely guarantee you that I will keep a very close look on how this is being implemented. I will certainly do everything in my power to make sure that the good work of the foundation continues without there being any untoward effects on me and my service and be very conscious of any questions that are raised.
 
 	But I think that the way that this has been hammered out is probably as close as we can get to doing something that is so unprecedented that there is no formula for it. And we've tried to do the very best we could.
 
@@ -6013,10 +6014,51 @@ http://www.nytimes.com/2009/01/13/us/politics/13text-clinton.html
 	CLINTON: Thank you, Mr. Chairman.
 
 
+Before she was sworn-in, Clinton was sternly warned of the risks involved in accepting foreign donations to the Clinton Foundation as Secretary of State. To address this, Clinton signed a memorandum of understanding with the Obama Administration promising to disclose foreign donations to the State Department and avoid conflicts of interest or "the appearance of conflicts of interest."
+
+Clinton failed to disclose foreign donations multiple times. There is a pattern of Clinton giving preferential treatment at the State Department to donors to her foundation, "friends" of her Husband, and foreign governments who paid her husband exorbitant speaking fees. Clinton failed to avoid the appearance of conflict of interest. She broke her promise to the Senate, the Obama administration, and the public.
+
+Clinton promised "overwhelming disclosure" for the Clinton Foundation, but if the Clinton Foundation was subject to overwhelming disclosure, it was only because of FOIA requests of Clinton's work-related emails (http://www.judicialwatch.org/wp-content/uploads/2015/05/Abedin-Complaint-File-Stamped.pdf). Clinton's state department and foundation overlapped in employees, communications, and business, and it has been said it was "hard to tell where the foundation ended and the State Department began."
+
+Because some of the federal records on Clinton's private server gave the appearance of a conflict of interest and a violation of Clinton's agreement with the Obama administration, Clinton had an incentive to conceal these records. Reportedly, the conduct at the Clinton Foundation was enough to open an FBI investigation into the foundation, further adding to the incentive to conceal. In her public statements, Clinton said her foundation went "beyond what the law and the ethics rules call for to address even the appearance of conflict," but it is inconceivable that Clinton did not recognize the emails she wrote as Secretary of State and the business she conducted as director of the Clinton Foundation created the appearance of a conflict of interest.
+
+But, apparently, Comey did not take this into account either when he decided there was insufficient "evidence of intent" to indict Clinton:
 
 
-------
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	CHAFFETZ: Was the Clinton Foundation tied into this investigation?
 
+	COMEY: Yeah I’m not going to answer that.
+
+
+Reportedly, the unusual immunity agreements granted by the Justice Department during the Clinton email investigation hindered the FBI's investigation of the Clinton Foundation. It is unclear why Comey defended these immunity agreements and dodged the question when asked to testify why he didn't instead empanel a grand jury.
+
+
+Ultimately, even if Comey's intent requirement is to be followed, there is evidence that Clinton had a guilty conscience, especially from her public statements. But Comey says he didn't review Clinton's statements before his recommendation to not indict:
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	WALKER: ...can you help me understand why didn’t it rise to your investigation or someone bringing that to your knowledge as far as saying this is a problem, here she is, again, Secretary Clinton lying under oath specifically about our investigation?
+
+	COMEY: We out of respect for the legislative branch being a separate branch, we do not commence investigations that focus on activities before Congress without Congress asking us...
+
+	...CHAFFETZ: You did not look at testimony that Hillary Clinton gave in the United State Congress, both the House and the Senate.
+
+	...Did you review and look at those transcripts as to the intent of your recommendation.
+
+	COMEY: I’m sure my folks did. I did not.
+
+
+Comey said his "folks" reviewed her statements, but he didn't meet with all of his agents before his recommendation: 
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	MICA: ...But all of the agents, did they meet with you and then is that the group that said that we all vote to not recommend prosecution?
+
+	COMEY: I did not meet with all of the agents. I’ve met with — I guess I’ve — I’ve met with all of them…
+
+
+But isn't this irresponsible? It sounds like Comey went off on his own with his recommendation without reviewing all the facts important to the case.
 
 In addition to being trained and experienced in the identification and handling of classified information, Clinton is a trained and experienced lawyer. It looks like she was using the "idiot defense" in her public statements and FBI interview:
 
