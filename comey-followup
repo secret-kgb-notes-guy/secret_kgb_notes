@@ -3890,7 +3890,7 @@ https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hilla
 As it turns out, Clinton's statements were less than truthful. Lying to the public isn't illegal, but a person's lies can be used in court to show intent or guilt. When Comey declined to indict Clinton and later testified about his decision, he did a pretty bad job of taking that into account. Related to this, Comey also made some unusual decisions and statements about the case, which are illuminating as to his character and possible intentions. It's worth looking at in detail.
 
 
-First claim--Clinton never sent or received anything classified:
+Claim #1: Clinton never sent or received anything classified:
 
 
 https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
@@ -4624,55 +4624,514 @@ Clinton said there was "no classified information" on her server, but this is fa
 
 193 class 7 SAP
 
+---
 
-Why did Comey testify Clinton was knowledgable in handling classified information, even though she played dumb in her FBI interview?
 
-How is it that Clinton knows what "(SBU)" means but not but "(C)" means, even though she's seen both in her emails used in her diplomatic cables? How can she say "(C)" marks a paragraph in alphabetical order when there's obviously no "(A)" or "(B)"?
+All this brings up some questions, like:
 
-Comey inserted an "intent" ("general mens rea requirement") element into a law that only requires gross negligence, and it looks like she even met his "guilty intent" requirement anyway.
 
-Clinton told the FBI she had "no reason to believe there was classified information in her account," but earlier she casually Jake Sullivan to foward an email "if no classified or otherwise innappropriate," and asked him to send her classified information over nonsecure channels.
+- Why did Clinton change her story from "there is no classified information" to "I never sent anything classified at the time it was sent or received" to "nothing was marked classified" after media reports on her server? She told Congress she changed her story to clear up "confusion" about "how the classification process works," but all she did is confuse the public more--classified information is classified even if it's unmarked. Americans are supposed to be able to trust their officials to recognize classified and keep it safe, and Clinton's job as an original classification authority was to recognize when information is classified and mark it if necessary. Clinton wrote several emails classified at the Special Access Program (SAP) level, which is classified that way if its release would do grave damage to national security, but she didn't mark them. Clinton confused the public in a way that makes her seem less guilty (regarding confusion, read a few articles here 
+https://www.google.com/search?q=information+marked+classified+confusion&tbs=cdr%3A1%2Ccd_min%3A3%2F1%2F2015%2Ccd_max%3A11%2F8%2F2016 and you'll see what I mean).
 
-Why was Comey so willing to accept Clinton's version of events from her FBI interview, almost like he was defending her? And why was he so forgetful of the rest of the interview when asked questions about comparing her public statements to what she said to the FBI?
+
+- How is it that, after lecturing the American public on classification markings, Clinton knows what "(SBU)" means, but when the FBI asks here what but "(C)" means she tells them it's referencing paragraphs marked in alphabetical order? There was no "(A)" or "(B)" in the short email they showed her, and it was even marked Confidential in big letters on the top and bottom. Clinton has seen emails that mix both "(SBU)" and "(C)" markings (apparently, the alphabet goes "C, SBU, SBU, SBU...") and she's written thousands of cables that use both.
+
+
+- Why did Comey go along with Clinton's "(C) is just a letter in the alphabet" story? He told (or implied) to Congress he's "not sure" if Clinton knew "(C)" means "Confidential," but when the question of Clinton's sophistication came up later in his testimony, Comey said "Well, I was talking about technical sophistication," as if to change his story. Comey testified that Clinton signed-off on being briefed on the handling of classified information and "executed that document." So, is she sophisticated in handling classified information or not? Comey's testimony is unnecessarily vague.
+
+
+- Clinton told the FBI she had "no reason to believe" there was classified information in her account, but earlier she asked Jake Sullivan to forward an email "if not classified or otherwise inappropriate," indicating that she had reason to believe there was classified information on her account. Was she lying to the FBI?
+
+
+- Clinton asked Jake Sullivan to send her classified talking points over unsecure fax, apparently for a meeting that was starting in 8 minutes (Clinton says "I didn't get the TPs yet." Sullivan says "?!!! Checking"). The problem was Clinton told him to remove the classification headers and send nonsecure, but when confronted about it in her FBI interview gave them a red herring about "non-paper" documents at the State department. Why did Comey repeat her misleading explanation to Congress?
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	CHAFFETZ: ...How did the Department of Justice, or how did the FBI view the incident in which Hillary Clinton instructed Jake Sullivan to take the markings off of a document that was to be sent to her?
+
+	COMEY: Yes, we looked at that pretty closely. There was some problem with their secure fax machine and there was an e-mail in which she says in substance, take the headers off of it and send it as a non- paper and as we’ve dug into that more deeply, we’ve come to learn that at least this one view of it that is reasonable, that a non-paper in State Department parlance (ph) means a document that contains things we could pass to another government. So essentially take out anything that’s classified and send it to me. 
+
+
+https://fam.state.gov/fam/05fah01/05fah010610.html
+	Use this section to provide instructions on any written material to be left with the host government official(s).  Such material could take the form of an aide-memoire, a letter, or a “non-paper” that provides a written version of the verbal presentation (i.e., the talking points as delivered).  Unless otherwise instructed, post should normally provide an aide-memoire or non-paper at the conclusion of a demarche.  Classified aide-memoire or non-paper must be appropriately marked
+
+
+- Why did Comey remember that part of Clinton's FBI interview in detail, but was forgetful when asked to compare Clinton's public statements to her statements to the FBI? ("did she change her statements in that sworn testimony with you last Saturday? ...I haven’t gone through that to parse that…", "It’s a very long, 302. I’d have to check and then get back to you.", "COMEY: I’m not equipped sitting here without the 302 in front of me to answer in that broad…  MULVANEY: But it’s your — it’s your testimony…") He makes it sound like he's her defense lawyer.
+
+
+- Comey testified there was "no direct evidence of an intrusion," but the FBI's report says there "appears" to have been "a successful compromise of an e-mail account on the server." Was Comey contradicting his own FBI?
+
+
+- Comey inserted an "intent" requirement (a "general mens rea requirement" as he puts it) into the law that only requires "gross negligence" to prosecute someone for mishandling classified information. Comey testified that false exculpatory statements show a guilty conscience and intent, but Clinton made several such statements to Congress and the public. She gave one to Jake Tapper in an interview ("maybe something has happened years later that there's a case and so now it's sensitive information. That's what's going on here.") and one to Pompeo ("POMPEO: Yes, ma'am. You're not supposed to have classified e- mail on your private server either. CLINTON: And I did not, Congressman.") in her testimony. Her statement to Pomeo came shortly after she was informed there was classified information on her server and immediately after agreeing (if at least implicitly) that classified information should not be stored in unauthorized locations. If Clinton is sophisticated in handling classified info, as Comey seems to have testified, then she knows her statements were false. Knowledge of classified information on her server can also be inferred by some of her statements in her emails ("If not classified or otherwise inappropriate...") and her statements to the FBI ("When asked whether CLINTON believed information should be classified if it is unauthorized release would cause damage to national security, she responded, 'yes, that is the understanding.'").
+
+Even if Comey's intent requirement is to be followed, there is evidence that Clinton had a guilty conscience, especially from her public statements. But Comey says he didn't review Clinton's statements before his recommendation to not indict:
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	WALKER: ...can you help me understand why didn’t it rise to your investigation or someone bringing that to your knowledge as far as saying this is a problem, here she is, again, Secretary Clinton lying under oath specifically about our investigation?
+
+	COMEY: We out of respect for the legislative branch being a separate branch, we do not commence investigations that focus on activities before Congress without Congress asking us...
+
+	...CHAFFETZ: You did not look at testimony that Hillary Clinton gave in the United State Congress, both the House and the Senate.
+
+	...Did you review and look at those transcripts as to the intent of your recommendation.
+
+	COMEY: I’m sure my folks did. I did not.
+
+
+Comey said his "folks" reviewed her statements, but he didn't meet with all of his agents before his recommendation: 
+
 
 http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
 	MICA: ...But all of the agents, did they meet with you and then is that the group that said that we all vote to not recommend prosecution?
 
 	COMEY: I did not meet with all of the agents. I’ve met with — I guess I’ve — I’ve met with all of them…
 
-Why didn't Comey meet with all of his agents before reccomending prosecution? why does he seem evasive here?
 
-
-Comey changes his story about Clinton's "sophistication" about classified info, then adds that Clinton had to "know she did something unlawful" to have intent. But Clinton testified at the Benghazi hearing that she know it was wrong to store classified info in an unauthorized place, but when asked the same about her email server said again there was no classified info, even though everybody knew at that point that there was.
-
-
-If Comey cared so much about his intent requirement, why on earth didn't he review Clinton's testimony before deciding not to reccomend indictment? he says he's sure his team did, but he "did not."
-
-
-Comey testified that he knows false exculpatory statements are used to show intent. Clinton made a false exculpatory statement in her interview with Tapper, saying that the classification issue is really all over classification after-the-fact: "maybe something has happened years later that there's a case and so now it's sensitive information. That's what's going on here."  But she knows that's not true (OCA, not unsophisticated in classified info, asking if info on her server is classified, some info marked classified). She's making up a story that exonerates her--a false excuplatory statement.
-
-
-Clinton also says "no indication at all" that her server was hacked, but her server was hacked, and she and her staff were concerned about hacks.
-
-Clinton said there were "no security breaches," but the FBI said there was a security breach.
-
-Comey testified there was "no direct evidence of an intrusion," but the FBI's report indicates otherwise. Said there "appears" to be "a successful compromise of an e-mail account on the server."
-
-Clinton told the FBI she understood that covert military action and sensative sources and methods should be classified and would damage national security if released, but she talked about planned drone strikes, the identies of undercover CIA officers, and North Korea's nuclear program on her unsecure email server.
-
-Why can't Clinton apologize for risking national security?
-
-
-Clinton clearly taking the "idiot defense" route in her FBI interview, and in his testimony, Comey even plays along (believes story on secure fax, "I'm not sure anymore if people are sophisticated" about (C) in interview), even though he testifies ultimately that she is compotent in classified information. But her lying about the (C) clearly shows she is using the "idiot defense" and lying.
+Isn't this irresponsible? It sounds like Comey went off on his own with his recommendation without reviewing all the facts important to the case.
 
 
 
+Claim #2: Clinton's private server was allowed, and she set it up for "convenience:"
 
 
-Mindful that we can learn from history, now we should return to the original question: What will the Russians try this time?
+https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
 
-With Nixon and Watergate, they implicated the USIC in a major scandal that ended up discrediting them. The Okhrana wants to be able to continue to fool the American public, and they know U.S. intelligence agencies are America's best bet to expose their goals and methods. On top of that, with the release of the Venona Papers, Mitrokhin archives, etc., Western intelligence agencies have already exposed a lot of secrets that they'd rather people not know. But if, one way or another, they can convince the American public (or the world) that American intelligence agencies are liars, anything they say, and everything they've said already, would be called into question.
+	...when I got to work as secretary of state, I opted for convenience to use my personal email account, which was allowed by the State Department, because I thought it would be easier to carry just one device for my work and for my personal emails instead of two.
 
+	Looking back, it would've been better if I'd simply used a second email account and carried a second phone, but at the time, this didn't seem like an issue.
+
+
+https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
+	QUESTION: And also, the president of the United States said that he was unaware that you had this unusual email arrangement. The White House counsel's office says that you never approved this arrangement through them.
+
+	Why did you not do that? Why did you -- why have you apparently caught the White House by surprise?
+
+	And then just one last political question, if I -- I might. Does all of this make -- affect your decision in any way on whether or not to run for president?
+
+	CLINTON: Well, let me try to unpack your multiple questions.
+
+	First, the laws and regulations in effect when I was secretary of state allowed me to use my email for work. That is undisputed.
+
+
+http://www.politifact.com/truth-o-meter/statements/2016/may/31/hillary-clinton/fact-checking-hillary-clintons-claim-her-email-pra/
+	Since the news of Clinton’s email came to light in 2015, she has argued that she "complied with every rule" and that the practice was "allowed." We haven’t yet put the issue on the Truth-O-Meter because there were too many unknowns.
+
+	But the inspector general’s report has clarified some of those unknowns and demonstrated that Clinton’s exclusive use of personal email was, in fact, not allowed.
+
+
+https://www.nytimes.com/2015/03/03/us/politics/hillary-clintons-use-of-private-email-at-state-department-raises-flags.html
+	“It is very difficult to conceive of a scenario — short of nuclear winter — where an agency would be justified in allowing its cabinet-level head officer to solely use a private email communications channel for the conduct of government business,” said Jason R. Baron, ... former director of litigation at the National Archives and Records Administration.
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	FARENTHOLD: All right. I want to go back to the question of intent real quick, for just a second.
+
+	I’m a recovering attorney. It’s been decades since I actually practiced law. But you kept referring to she had to know it was illegal to have the requisite criminal intent. I was always taught in law school, and I don’t know where this changed, that ignorance of the law was no excuse. If I’m driving a long at 45 miles and hour and didn’t see the 35 mile and hour speed limit, I was still intentionally speeding, even though I didn’t know it.
+
+	Now, I might not have had the requisite criminal intent if maybe my accelerator were jammed or something like that, but even though I didn’t know the law was 35, I was driving 45, I’m going to get a ticket. And I’m probably going to be prosecuted for that.
+
+	So, how can you say ignorance of the law is an excuse in Ms. Clinton’s case?
+
+	COMEY: Well, the comparison to petty offenses, I don’t think is — you spoke about the question of — ignorance of the law is no excuse, but here’s the distinction. You have to have general criminal intent. You don’t need to know what particular statute you’re violating, but you must be aware of the generally wrongful nature of your conduct…
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2004%20of%2010/view
+	pg 90
+
+	CLINTON sent out an all-staff cable that personal email should not be used day-to-day for business purposes and that personal email is not secure, so do not use them for business purposes. To best of [REDACTED]'s recollection, CLINTON sent that cable out in 2009. 
+
+
+http://abcnews.go.com/Politics/full-transcript-abcs-david-muir-interviews-hillary-clinton/story?id=33607656
+	 DAVID MUIR: You mentioned everybody in the government knew that you were using this private server. It-- did fellow members of the cabinet know? Did the president know?
+
+	HILLARY CLINTON: Everyone I emailed with, and I'm not going to go into names, but let me say I emailed with many people in the White House and the rest of the government, of course, across the State Department, knew that I was emailing from a personal account. 
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2003%20of%2010/view
+	pg 166
+
+	...[REDACTED] did not recall seeing CLINTON's actual email address. Rather, when [REDACTED] received or responded to emails from CLINTON, she recalled seeing a single initial. ...[REDACTED] noted that although she is no longer at DoS, she still maintains email contact with CLINTON and now receives emails from CLINTON where the name of the sender is "H." [REDACTED] had no knowledge CLINTON was using her own private server until it was reported in the media.
+
+
+http://abcnews.go.com/Politics/full-transcript-abcs-david-muir-interviews-hillary-clinton/story?id=33607656
+	HILLARY CLINTON: ...As I said, it was allowed and there was no hiding it. It was totally above board.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2003%20of%2010/view
+	pg 166
+	
+	[REDACTED] was not initially provided CLINTON's email address, so when she wanted to send or forward a message to CLINTON, she would route it through HUMA ABEDIN. At some point in the first six to eight months of employment at DoS, [REDACTED] recalled CLINTON responding to one of the messages she forwarded directly. At this point, [REDACTED] asked ABEDIN if it was okay to go direct with CLINTON, and was granted the "privilege." [REDACTED] explained the privilege of emailing CLINTON direct was not a privilege she used lightly. While [REDACTED] did not have a history of Government Service, she thought it was normal for someone in CLINTON's position to have a "gatekeeper system" in place.
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	Two staff in S/ES-IRM reported to OIG that, in late 2010, they each discussed their concerns about Secretary Clinton’s use of a personal email account ...one staff member raised concerns that information sent and received on Secretary Clinton’s account could contain Federal records that needed to be preserved in order to satisfy Federal recordkeeping requirements. According to the staff member, the Director stated that the Secretary’s personal system had been reviewed and approved by Department legal staff and that the matter was not to be discussed any further. ...the Director stated that the mission of S/ES-IRM is to support the Secretary and instructed the staff never to speak of the Secretary’s personal email system again. 
+
+
+http://www.politifact.com/truth-o-meter/statements/2016/may/31/hillary-clinton/fact-checking-hillary-clintons-claim-her-email-pra/
+	Fallon pointed PolitiFact to a May 26 CNN interview where Clinton said that at the time she made the decision to use a private server, she "thought it was allowed."
+
+
+http://transcripts.cnn.com/TRANSCRIPTS/1510/18/sotu.01.html
+	TAPPER: Right. And you said it was allowed, too.
+
+	CLINTON: Yes, it was.
+
+	TAPPER: Who allowed it?
+
+	CLINTON: It was allowed under the rules of the State Department. And again --
+
+	TAPPER: So nobody signed off on it?
+
+	CLINTON: No, no. It was allowed.
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	Throughout Secretary Clinton’s tenure, the FAM stated that normal day-to-day operations should be conducted on an authorized AIS, yet OIG found no evidence that the Secretary requested or obtained guidance or approval to conduct official business via a personal email account on her private server. ...Secretary Clinton had an obligation to discuss using her personal email account to conduct official business with their offices, who in turn would have attempted to provide her with approved and secured means that met her business needs. However, according to these officials, DS and IRM did not—and would not—approve her exclusive reliance on a personal email account to conduct Department business, because of the restrictions in the FAM and the security risks in doing so. 
+
+	...DS and IRM reported to OIG that Secretary Clinton never demonstrated to them that her private server or mobile device met minimum information security requirements specified by FISMA and the FAM.
+
+
+http://abcnews.go.com/Politics/full-transcript-abcs-david-muir-interviews-hillary-clinton/story?id=33607656
+	HILLARY CLINTON: ...Everybody in the government I communicated with -- and that was a lot of people--
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2003%20of%2010/view
+	pg 117
+
+	[REDACTED] sent a weekly report directly to the Secretary of State when it was widely known "you don't go direct" with the Secretary.
+
+
+http://abcnews.go.com/Politics/full-transcript-abcs-david-muir-interviews-hillary-clinton/story?id=33607656
+	HILLARY CLINTON: --knew I was using a personal e-mail.
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	...OIG interviewed other senior Department officials with relevant knowledge who served under Secretary Clinton, including the Under Secretary for Management ... ; current and former Executive Secretaries ; and attorneys within the Office of the Legal Adviser. These officials all stated that they were not asked to approve or otherwise review the use of Secretary Clinton’s server and that they had no knowledge of approval or review by other Department staff. These officials also stated that they were unaware of the scope or extent of Secretary Clinton’s use of a personal email account, though many of them sent emails to the Secretary on this account. Secretary Clinton’s Chief of Staff also testified before the House Select Committee on Benghazi that she was unaware of anyone being consulted about the Secretary’s exclusive use of a personal email address.
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	DUNCAN: Do you — we talk about gross negligence here and you said that Secretary Clinton was extremely careless with this classified material and how dangerous it could be, how threatening to — even to people’s lives that it could be to disclose classified material.
+
+	Do you agree that there is a very thin line between gross negligence and extreme carelessness? And would you explain to me what you consider to be that difference?
+
+	COMEY: Sure, judge — Congressman. As a former judge, you know there isn’t actually a great definition in the law of gross negligence. Some courts interpret it as close to willful, which means you know you’re doing something wrong.
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	In March 2009, after unsuccessful efforts to supply Secretary Clinton with a secure government smartphone, DS was informed that Secretary Clinton’s staff had been asking to use BlackBerry devices inside classified areas. The Assistant Secretary of DS then sent a classified memorandum to Secretary Clinton’s Chief of Staff that described the vulnerabilities associated with the use of BlackBerry devices and also noted the prohibition on the use of Blackberry devices in sensitive areas. 
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2003%20of%2010/view
+	pg 78
+
+	Agents asked BOSWELL to review a redacted memo titled "Use of Blackberries in Mahogany Row." ...After reviewing the memo, BOSWELL stated the memo was drafted early in the Administration and shortly after CLINTON began her tenure at DoS.
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	OIG discovered in Secretary Clinton’s retired paper files a copy of the classified presentation used during the briefing.
+
+
+http://freebeacon.com/wp-content/uploads/2015/11/boswell-bberry-memo.pdf
+	INFORMATION MEMO FOR CHERYL D. MILLS--S
+	FROM:	DS--Eric J. Boswell
+	SUBJECT: Use of Blackberries in Mahogany Row
+
+	We have worked closely [REDACTED] to review all options that would allow Secretary Clinton, you, and a small number of staff to use Blackberries [REDACTED]
+
+	...Our review reaffirms our belief that the vulnerabilities and risks associated with the use of Blackberries in the Mahogany Row [REDACTED] considerably outweigh the convenience their use can add to staff that have access to the unclassified OpenNet system on their desktops.
+
+	...We also worry about the example that using Blackberries in Mahogany row might set as we strive to promote crucial security practices and enforce important security standards among State Department staff.
+
+	...I cannot stress too strongly, however, that any unclassified Blackberry is highly vulnerable in any setting to remotely and covertly monitoring conversations, retrieving e-mails, and exploiting calendars. I am attaching reports from DS's Office of Computer Security's Cyber Threat & Analysis Division that give further background on those risks.
+
+	...Attachments: ..."Your Cell and Your Berry: Tools for the Enemy"
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	According to a DS official, shortly after the memorandum was delivered, Secretary Clinton approached the Assistant Secretary and told him she “gets it.”
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2004%20of%2010/view
+	pg 43
+
+	...no cell phones are allowed inside the SCIF and DS agents, officers, and staff are required to leave their cell phones outside the door in secure lockers. CLINTON refused to abide by this security requirement and brought her cell phone, believed to be a Blackberry, inside the SCIF where a DS agent assigned to Post 1 was required to guard it. DS agents were indignant that they were required to follow security policy but CLINTON made herself exempt from the same regulations.
+
+
+https://www.nytimes.com/2015/04/15/us/politics/hillary-clintonwas-asked-about-email-2-years-ago.html
+	WASHINGTON — Hillary Rodham Clinton was directly asked by congressional investigators in a December 2012 letter whether she had used a private email account while serving as secretary of state, according to letters obtained by The New York Times.
+
+	But Mrs. Clinton did not reply to the letter. And when the State Department answered in March 2013, nearly two months after she left office, it ignored the question and provided no response.
+
+
+https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
+	QUESTION: Why did you wait two months? Why -- why did you wait two months to turn those emails over? The rules say you have to turn them over...
+
+	(CROSSTALK) CLINTON: I don't think -- I'd be happy to have somebody talk to you about the rules. I fully complied with every rule that I was governed by.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2004%20of%2010/view
+	[REDACTED] was previously an agent of the U.S. Department of State, Bureau of Diplomatic Security (DS). ...[REDACTED] served briefly on former Secretary CLINTON's protective detail in 2009. From her own experience, and information obtained through [REDACTED] and other agents, [REDACTED] described a "stark difference" between RICE and CLINTON with regard to obedience to security and diplomatic protocols while CLINTON frequently and "blatantly" disregarded them. For example ...It is seen as diplomatic protocl for the Secretary of State to arrive at foreign diplomatic functions with the local ambassador; however, CLINTON refused to do so, instead choosing to be accompanied in the limousine by her Chief of Staff, HUMA ABEDIN. This frequently resulted in complaints by ambassadors who were insulted and embarrassed by this breach of protocol. [REDACTED] explained that CLINTON'S protocol breaches were well known throughout Diplomatic Security and were "abundant."
+
+	...On a trip to Jakarta, Indonesia, in early 2009, CLINTON requested to visit an area of Jakarta that presented security and safety challenges. This visit was reportedly for a photo opportunity regarding CLINTON's "clean cooking stoves" initiative. The DS advance team recommended against traveling to this area because the route could not be secured and was lined with dangerous circumstances and individuals. As such, the DS advance team recommended in writing that this excursion be stricken from the schedule but were told by DS management that it was going to happen because "she wanted it." DS agents felt this excursion into potentially hostile areas placed CLINTON, her staff, the media, and her security detail in unnecessary danger in order to conduct a photo opportunity for "her election campaign." DS agents had the perception that CLINTON was using her position as Secretary of State to campaign for President of the United States. 
+
+	...On one occasion while traveling to Palestine, CLINTON ordered the limousine driver, believed to be [REDACTED], to open the window while in "occupied territory", referring to a dangerous area of the West Bank. [REDACTED] initially declined to respond to CLINTON's request; however, repeated demands by CLINTON forced him to open his window despite the danger to himself and the occupants.
+
+	...Early in CLINTON's tenure as Secretary of State, she and her staff were observed removing lamps and furniture from the State Department which were transported to her residence in Washington, D.C. [REDACTED] does not know whether these items were ever returned to the government upon CLINTON's departure from the State Department.
+
+	...[REDACTED] explained that CLINTON's treatment of DS agents on her protective detail was so contemptuous that many of them sought reassignment or employment elsewhere. Prior to CLINTON's tenure, being an agent on the Secretary of State's protective detail was seen as an honor and privilege reserved for senior agents. However, by the end of CLINTON's tenure, it was staffed largely with new agents because it was difficult to find senior agents willing to work for her.
+
+
+http://freebeacon.com/wp-content/uploads/2015/11/boswell-bberry-memo.pdf
+	Use of Blackberries in Mahogany Row
+
+	...As an alternative, we suggested that DS work with S/ES-IRM to make access to the Secretary's OpenNet account on her desktop workstation as easy and convenient as possible. For example, we are happy to work with IRM to lengthen or even eliminate the time-out function to allow the Secretary's Special Assistant to log-in to review her emails and schedules.	
+
+	...If, after considering the vulnerabilities that I describe above and the alternatives that I propose
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	...in response to Secretary Clinton’s desire to take her BlackBerry device into secure areas, her Chief of Staff discussed with senior officials in S/ES and with the Under Secretary for Management alternative solutions, such as setting up a separate stand-alone computer connected to the Internet for Secretary Clinton “to enable her to check her emails from her desk.” The Under Secretary’s response was “the stand-alone separate network PC is [a] great idea” and that it is “the best solution.” According to the Department, no such computer was ever set up. 
+
+
+https://www.washingtonpost.com/news/post-politics/wp/2015/10/22/transcript-clinton-testifies-before-house-committee-on-benghazi/
+	CLINTON: ...If you were to be in my office in the State Department, I didn't have a computer...
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2001%20of%2010/view
+	pg 12
+
+	Investigators determined Clinton did not have a computer in her State office, which was located in a Sensitive Compartmented Information Facility (SCIF) on the seventh floor of State headquarters, in an area often referred to as "Mahogany Row." State Diplomatic Security Service (DS) instructed Clinton that because her office was in a SCIF, the use of mobile devices in her office was prohibited.
+
+
+https://careers.state.gov/wp-content/uploads/2016/03/What-Every-New-Employee-Needs-to-Know.pdf
+	THE ABC’S
+
+	What Every New Employee Needs to Know
+
+	...Government and personally owned cellular telephones are permitted for use inside DOS facilities only where classified information is not discussed or processed. 
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2001%20of%2010/view
+	According to Abedin, Clinton primarily used her personal BlackBerry or personal iPad for checking e-mails, and she left the SCIF to do so, often visiting State's eight floor balcony. 
+
+
+https://foia.state.gov/searchapp/DOCUMENTS/HRCEmail_NovWeb/273/DOC_0C05794192/C05794192.pdf
+	From: H
+	Sent: Tuesday, September 11, 2012 08:51 PM
+	To: Diane Reynolds
+	Subject: I'm in my office
+
+	Because of attacks on our embassy in Cairo and our office in Benghazi so email when you can talk.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2001%20of%2010/view
+	pg 14
+
+	FBI investigation and the State OIG report determined that State issued regular notices to staff during Clinton's tenure highlighting cybersecurity threats and advising that mobile devices must be configured to State security guidelines. Clinton and her immediate staff were notified of foreign travel risks and were warned that digital threats began immediately upon landing in a foreign country...
+
+
+https://oig.state.gov/system/files/esp-16-03.pdf
+	Beginning in 2009, the Cyber Threat Analysis Division (CTAD) in DS issued regular notices...According to an article posted by CTAD, digital threats begin immediately after landing in a foreign country. A primary threat is traced to the traveler’s mobile device (BlackBerry or other smart device) which is necessarily connected to the local cellular tower. This connection gives foreign entities the opportunity to intercept voice and email transmissions immediately after the traveler arrives overseas.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2001%20of%2010/view
+	...Investigations determined that of the e-mails provided by ... Clinton's production to the FBI, approximately [REDACTED] emails were sent or received by Clinton on her personal e-mail accounts while she was travelling outside the continental United States (OCONUS) on official State business.
+
+
+https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
+	QUESTION: Were you ever -- were you ever specifically briefed on the security implications of using -- using your own email server and using your personal address to email with the president?
+
+	CLINTON: I did not email any classified material to anyone on my email. There is no classified material.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2001%20of%2010/view
+	...FBI investigation determined that hundreds of e-mails classified CONFIDENTIAL during the State FOIA process were sent or received by Clinton while she was OCONUS.
+
+	...On [REDACTED] occasions while OCONUS, Clinton had direct e-mail contact with an e-mail address for President Barack Obama.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2002%20of%2010/view
+	After reviewing an email dated July 1, 2012 with subject line "Fw: Congratulations!," CLINTON stated she received no particular guidance as to how she should use the President's email address [REDACTED]@who.eop.gov. Since the foregoing email was sent from Russia, CLINTON stated she must have sent it from the plane.
+
+
+http://www.breitbart.com/tech/2016/10/20/wikileaks-releases-first-batch-president-obamas-emails/
+	WikiLeaks Releases First Batch Of Barack Obama’s Emails
+
+
+https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
+	QUESTION: ...Madam Secretary, why did you opt out not using two devices at the time? Obviously, if this didn't come out, you wouldn't -- probably wouldn't become an issue.
+
+	QUESTION: And my -- my second follow-up question is, if you were a man today, would all this fuss being made be made?
+
+	Thank you.
+
+	CLINTON: Well, I will -- I will leave that to others to answer.
+
+	But as I -- as I said, I saw it as a matter of convenience, and it was allowed. Others had done it. According to the State Department, which recently said Secretary Kerry was the first secretary of state to rely primarily on a state.gov e-mail account.
+
+
+https://vault.fbi.gov/hillary-r.-clinton/Hillary%20R.%20Clinton%20Part%2003%20of%2010/view
+	pg 60
+
+	Secretary Clinton, however, was the first Secretary to use a privately maintained email server
+
+
+https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
+	CLINTON: ...And when I got there, I wanted to just use one device for both personal and work e-mails, instead of two. It was allowed. And as I said, it was for convenience.
+
+
+https://www.washingtonpost.com/news/fact-checker/wp/2016/07/05/revisiting-clintons-claim-she-used-personal-email-out-of-convenience-and-it-was-allowed-by-state-department/
+	‘Convenience’
+
+	A batch of emails released last month chronicles technical issues that Clinton and her top aides were facing with her private clintonemail.com account in late 2010. This led to communications issues between Clinton and her staff, and Clinton’s emails were being blocked by the State Department’s server. In a November 2010 email, Clinton wrote to her longtime aide, Huma Abedin: “This is not a good system.”
+
+	Abedin responded: “We should talk about putting you on state email or releasing your email address to the department so you are not going to spam. It’s not the phone message system, it’s the device delay.”
+
+	“Let’s get separate address or device, but I don’t want any risk of the personal being accessible,” Clinton wrote.
+
+	This email became a recurring line of questioning in Abedin’s deposition, the transcript of which was released last week by Judicial Watch. When asked about that last response line by Clinton, Abedin explained:
+
+	“I read that line exactly the way she wrote it, which is, let’s get a separate address. There was no resistance to getting a separate email address, as I’m reading it in this document. And not wanting her personal emails to be accessible to the public. ...”
+
+	Abedin’s answer shows that Clinton was open to having a second device or email address — which calls into question whether the “convenience” concern was relevant or applicable after she became secretary of state. Yet Clinton did not mention these issues when she explained she chose the system out of convenience.
+
+
+
+Comey testified that for Clinton to be guilty, she'd need to be "generally aware of the wrongful nature" of her conduct and know she was "doing something wrong:"
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	FARENTHOLD: ...you kept referring to she had to know it was illegal to have the requisite criminal intent. I was always taught in law school, and I don’t know where this changed, that ignorance of the law was no excuse. If I’m driving a long at 45 miles and hour and didn’t see the 35 mile and hour speed limit, I was still intentionally speeding, even though I didn’t know it.
+
+	Now, I might not have had the requisite criminal intent if maybe my accelerator were jammed or something like that, but even though I didn’t know the law was 35, I was driving 45, I’m going to get a ticket. And I’m probably going to be prosecuted for that.
+
+	So, how can you say ignorance of the law is an excuse in Ms. Clinton’s case?
+
+	COMEY: Well, the comparison to petty offenses, I don’t think is — you spoke about the question of — ignorance of the law is no excuse, but here’s the distinction. You have to have general criminal intent. You don’t need to know what particular statute you’re violating, but you must be aware of the generally wrongful nature of your conduct…
+
+
+https://www.law.cornell.edu/uscode/text/18/793
+	18 U.S. Code § 793 - Gathering, transmitting or losing defense information
+
+	...(f) Whoever, being entrusted with or having lawful possession or control of any document, writing, code book, ... or information, relating to the national defense, (1) through gross negligence permits the same to be removed from its proper place of custody...
+
+
+https://www.fbi.gov/news/pressrel/press-releases/statement-by-fbi-director-james-b-comey-on-the-investigation-of-secretary-hillary-clinton2019s-use-of-a-personal-e-mail-system
+	Statement by FBI Director James B. Comey on the Investigation of Secretary Hillary Clinton’s Use of a Personal E-Mail System
+
+	...Although we did not find clear evidence that Secretary Clinton or her colleagues intended to violate laws governing the handling of classified information, there is evidence that they were extremely careless in their handling of very sensitive, highly classified information.
+
+
+http://www.thompsontimeline.com/congressional-testimony-of-fbi-director-james-comey/
+	DUNCAN: ...Do you agree that there is a very thin line between gross negligence and extreme carelessness? And would you explain to me what you consider to be that difference?
+
+	COMEY: Sure, judge — Congressman. As a former judge, you know there isn’t actually a great definition in the law of gross negligence. Some courts interpret it as close to willful, which means you know you’re doing something wrong.
+
+	Others drop it lower. My term (ph) extremely careless is trying to be kind of an ordinary person. That’s a common-sense way of describing it; it sure looks real careless to me.
+
+	The question of whether that amounts to gross negligence frankly is really not at the center of this because when I look at the history of the prosecutions and see, it’s been one case brought on a gross negligence theory.
+
+	I know from 30 years there’s no way anybody from the Department Of Justice is bringing a case against John Doe or Hillary Clinton for the second time in 100 years based on those facts.
+
+	DUNCAN: You ended your statement to Congressman Cooper a while ago saying no — saying once again that no reasonable prosecutor could have brought this case, yet you also mentioned earlier today that you had seen several of your friends and other prosecutors who have said publicly, many across this country, they would have been glad to prosecute this case.
+
+	COMEY: I smile because they’re friends and I haven’t talked to them I want to say, guys, so where were ya over the last 40 years?
+
+	Where were these cases? They just have not been brought for reasons that I said earlier. It’s a good thing the Department Of Justice worries about prosecuting people for being careless. I don’t like it.
+
+	As a citizen, I want people to show they knew they were breaking the law and then we’ll put you in jail.
+
+
+For whatever reason, Comey keeps switching between saying you have to "know you were doing something wrong" or "know you were breaking the law" to be prosecuted for gross negligence throughout his testimony. Since the idea that you have to "know you were breaking the law" to be guilty of breaking the law is absurd (https://en.wikipedia.org/wiki/Ignorantia_juris_non_excusat), we'll assume Comey meant you have to "know you were doing something wrong" to break the law, e.g. "consciousness of guilt" (which is also absurd https://en.wikipedia.org/wiki/Negligent_homicide, but anyway...). Even still, Comey's defense of Clinton doesn't hold up.
+
+From her public statements, it looks like Clinton really wants people to know her private server was "allowed," "totally above board," and "for convenience:"
+
+	...when I got to work as secretary of state, I opted for convenience to use my personal email account, which was allowed by the State Department
+
+	...First, the laws and regulations in effect when I was secretary of state allowed me to use my email for work. That is undisputed.
+
+	...And when I got there, I wanted to just use one device for both personal and work e-mails, instead of two. It was allowed. And as I said, it was for convenience.
+
+	...As I said, it was allowed and there was no hiding it. It was totally above board.
+
+
+	...TAPPER: Right. And you said it was allowed, too.
+
+	CLINTON: Yes, it was.
+
+	TAPPER: Who allowed it?
+
+	CLINTON: It was allowed under the rules of the State Department. And again --
+
+	TAPPER: So nobody signed off on it?
+
+	CLINTON: No, no. It was allowed.
+
+
+	...But as I -- as I said, I saw it as a matter of convenience, and it was allowed. 
+
+
+But the FBI found that Clinton sent an "all-staff cable" telling her State Department employees that "personal email should not be used day-to-day for business purposes and that personal email is not secure, so do not use them for business purposes." Clinton had an "obligation" to clear her personal server with the State department and dodged the question when asked if anybody "signed off" on her personal server. The State Department OIG found "no evidence" Clinton sought approval for her private server, and "would not" have approved it due to the "security risks." The FBI and State OIG found multiple State department employees, including high-level officials, were unaware Clinton used a private email server for State business. Clinton told David Muir "everybody in the government I communicated with ... knew I was using a personal e-mail," but the FBI found that multiple people in direct email contact with Clinton who didn't know she used a personal server. Clinton's server was configured in a way to hide her address. Clinton's assistant Huma Abedin told Clinton "We should talk about ... releasing your email address to the department," suggesting the State Department didn't know Clinton's email address.
+
+It really, really, looks like Clinton was trying to hide something, which suggests she knew she was doing something wrong. Comey didn't explain why this wasn't good enough for his "intent" requirement.
+
+Clinton's conduct at the State Department was also reckless. Clinton really wanted to use her Blackberry from her office, located in a Sensitive Compartmented Information Facility (SCIF). Regarding use of unsecure Blackberry's in SCIFs, Clinton was given a memo saying "I cannot stress too strongly, however, that any unclassified Blackberry is highly vulnerable in any setting to remotely and covertly monitoring conversations, retrieving e-mails, and exploiting calendars," and a copy of a memo saying as much was found in her papers. Clinton said she "gets it."
+
+But Clinton really wanted to use her Blackberry in her office. Security offered to "make access to the Secretary's OpenNet account on her desktop workstation as easy and convenient as possible," but Clinton never set up a computer in her office. Clinton sent thousands of emails from her blackberry while working from her office, including one titled "I'm in my office."
+
+The FBI found that although Clinton was warned multiple times not to use her Blackberry in foreign counties, ("A primary threat is traced to the traveler’s mobile device [BlackBerry or other smart device] which is necessarily connected to the local cellular tower."), she sent hundreds of classified emails from foreign countries, including emails to the President of the United States. When asked if she was briefed on the "security implications" of emailing the President from another country, Clinton dodged the question:
+
+
+https://www.washingtonpost.com/news/post-politics/wp/2015/03/10/transcript-hillary-clinton-addresses-e-mails-iran/
+	QUESTION: Were you ever -- were you ever specifically briefed on the security implications of using -- using your own email server and using your personal address to email with the president?
+
+	CLINTON: I did not email any classified material to anyone on my email. There is no classified material.
+
+
+When the FBI confronted Clinton in a similar way about emailing Obama from Russia, Clinton told the FBI she "must have sent it from the plane," indicating she knew she she wasn't supposed to be emailing Obama from Russia. Even if Clinton's emails didn't help Obama's emails get on Wikileaks (Russian intelligence could insert malware into her emails in transit, for example), her actions complicate any investigation into the leak of Obama's emails.
+
+
+
+
+
+
+
+
+
+
+Clinton says "And as I said, it was for convenience."
+
+But Clinton's server was plauged with technical issues, including being blocked by the State Department's server. She told Abedin “This is not a good system.” Abedin offered to get her a State Department email: “We should talk about putting you on state email or releasing your email address to the department so you are not going to spam.  Clinton said “Let’s get separate address or device, but I don’t want any risk of the personal being accessible.” When Clinton's private server started to become an inconvenience to her, Clinton said that she didn't want her personal info to be accessible.
+
+
+
+
+
+
+
+
+
+
+
+------
+
+
+In addition to being trained and experienced in the identification and handling of classified information, Clinton is a trained and experienced lawyer. It looks like she was using the "idiot defense" in her public statements and FBI interview:
+
+
+https://en.wikipedia.org/wiki/Idiot_defense
+	The idiot defense is a satirical term for a legal strategy where a defendant claims innocence by virtue of having been ignorant of facts of which the defendant would normally be expected to be aware. Other terms used for this tactic include "dumb CEO defense", "dummy defense", "ostrich defense", "Ken Lay defense", and "Sergeant Schultz defense".
+
+	The term was popularized as a result of a number of high-profile corporate accounting scandal defendants claiming that all wrongdoing was performed by others, without the defendant's knowledge or consent. Attorneys for these defendants claimed that their skill was in valuation and deal-making, and that they lacked the training to recognize fraudulent accounting practices they claimed that they would have needed. However, in many cases the defendants' subordinates testified that the defendants ordered them to falsify the accounts.
+
+	No major instances of the idiot defense being successful in criminal proceedings have been reported in American jurism to date.
+
+
+When she told the FBI that "(C)" is just marking paragraphs in alphabetical order, she destroyed her own defense by making it obvious she was playing dumb (among other ways). But Comey went along with her defense in his testimony to Congress, even inserting an "intent" requirement that appears to be necessary for her defense to work in the first place. Someone who's trusted with single-handedly making a major decision about Clinton's prosecution shouldn't sound like her defense. On top of that, Comey didn't review  Clinton's public statements or confer with all of his agents before his recommendation not to indict. Comey was extremely careless in making his decision.
+
+
+------
 
 
 ...
