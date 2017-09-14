@@ -532,6 +532,55 @@ oh so it failed because the chips weren't shielded, even though it was in LEO--s
 
 ------
 
+https://www.scientificamerican.com/article/controversy-surrounds-rus/
+	A report from Roscosmos, the Russian space agency, dismisses assertions that mismanagement plagued the Phobos-Grunt mission, but observers remain skeptical of that position
+
+	By James Oberg on March 26, 2012
+
+	...For Russia, it was supposed to be a "cavalry charge" toward a hyperambitious goal that would have redeemed a quarter-century of interplanetary impotence but instead became a cosmic humiliation when the craft died shortly after liftoff. 
+
+
+what an asshole
+
+	...This event led the probe's computer to default to "safe mode" and await remedial commands from Earth. Although American experts in radiation hardening found the conclusion unlikely, they admitted it was not impossible.
+
+	Now that finding is in serious doubt because it is so statistically unlikely and because reports of more likely fatal flaws have appeared.
+
+	Before the report’s release (and, in fact, in some cases prior to the Phobos-Grunt launch), experts quoted anonymously in the Russian press were alleging that the flight software for the probe was badly designed and implemented and that last-minute modifications to the probe were numerous and not well controlled. But the official report discounted any such suspicions about the software or the hardware.
+
+
+interesting, Oberg saying it was probably software or hardware, not cosmic rays, blames "mismanagement"
+
+
+if people like this involved will probably never know for sure what caused it.
+
+would guess sabotage of software
+
+
+	... During that period, ground tracking revealed a bizarre behavior pattern. The low elliptical orbit actually began rising, mainly at its perigee (low point). The rise was steady until, after 10 days, it abruptly stopped and began a natural decay. These unexpected changes made precise predictions of its future flight path more complicated, perhaps contributing to the inability of ground sites to point their signals with sufficient accuracy.
+
+	The Russian report attributes this "perigee creep" to the propulsive effects of the orientation thrusters as they fired to keep the solar panels pointed at the sun. Western observers had suggested exactly this effect when the unexpected orbit changes were first recognized. They also attribute the end of the creep to have been caused by the exhaustion of attitude-control propellant, which the Russian report did not address.
+
+
+interesting, trying to make up excuses for why it was staying in orbit?
+
+Oberg the only other Western media person to report on this
+
+
+	...A few days after the end of the creep, ground sites finally established contact, but readable telemetry was never received. At that point, for reasons not described, the probe turned its main radio system on but somehow failed to turn it off at the end of one communication session. This power drain quickly depleted the batteries, according to the the reconstruction given in the report.
+
+	Within a few days, some kind of explosive event shattered the pressurized avionics bay containing the computer, radio and batteries—ejecting small bits of debris observed on radar. The craft then lost attitude control and began tumbling and was irrevocably dead. Its orbit decayed more rapidly and hit the atmosphere eight weeks later.
+
+	Yet this entire dramatic scenario seems based on a series of suppositions rather than actual telemetry.
+
+
+interesting, didn't know about "explosive event" before descent
+
+Oberg says "it's all nonsense!"
+
+
+------
+
 
 https://www.nasaspaceflight.com/2011/11/live-fobos-grunt-recovery-efforts-underway/
 	UPDATE: Further communications were made between Wednesday and Thursday, although the telemetry is understood to be incomplete and “garbled” – requiring a large amount of work to gain data from.
@@ -723,3 +772,14 @@ one of a few explanations for the failure
 	During a meeting Wednesday in Paris, Roscosmos representatives agreed in principle to provide the launch rocket, said Franco Bonacina, an ESA spokesman.
 
 	“Russia will then have a lot of say in the mission,” Zak said. “Without them, now it looks like the mission collapses like a house of cards.” 
+
+
+
+------
+
+
+NBC mirror of Warmflash's "phobos-grunt trying to save itself" article
+
+http://www.nbcnews.com/id/45349936/ns/technology_and_science-science/t/russian-mars-probe-trying-save-itself/
+
+
