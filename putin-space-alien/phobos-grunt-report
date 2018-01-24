@@ -1,0 +1,85 @@
+https://www.roscosmos.ru/main.php/?id=2&nid=18647
+
+
+This is link to original report, but looks like it was removed.
+
+
+Wayback machine has it:
+
+https://web.archive.org/web/20130329022128/https://www.roscosmos.ru/main.php/?id=2&nid=18647
+
+
+they looked at multiple possible reasons for failure. "VM Ivanov" was in charge of evaluating correctness of manufacture and parts.
+
+They were able to obtain and read telemetry from the craft and use this for their analysis.
+
+
+If I read right, there were no discernable anomalies before the incident. After the incident, the craft was otherwise functioning, but they believe a restart occured sometime during flight.
+
+after this, switched to "maintenance mode" or constant solar orientation mode
+
+From Nov 9 to 24, the craft was able to stay powered
+
+After the 24th, power was lost because the transmitter was not turned off after a communications session.
+
+
+
+not sure if they assessed why it was correcting its orbit
+
+pretty sure this isn't full report, just a summary
+
+
+------
+
+http://forum.nasaspaceflight.com/index.php?topic=27593.msg858095#msg858095
+
+
+someone also put an english translation here (looks like google translate) with discussion
+
+
+This guy says "most of the components were flight proven:"
+
+forum.nasaspaceflight.com/index.php?topic=27593.msg858608#msg858608
+
+
+citing these:
+
+
+http://ofo.ikiweb.ru/en/p_phobos.php
+http://www.npcap.ru/index.php?page_id=26
+http://www.niimashspace.ru/2010-07-16-10-53-23/hiistory.html
+
+last 2 404, dunno what to make of first one
+
+
+------
+
+
+someone did an analysis of it correcting it's orbit:
+
+
+http://forum.nasaspaceflight.com/index.php?topic=27593.msg857029#msg857029
+
+http://satobs.org/seesat/Feb-2012/0000.html
+
+
+A big question is: was it supposed to do that?
+
+
+	The manoeuvres almost certainly are attributable to the four 11D457F bipropellant 53.9 N thrusters that faced -X (aft)
+in the vehicle's coordinate system. Their main purpose was attitude control, but also propellant settling (ullage burns)
+prior to main engine firings. Consumption of fuel plus oxidizer was about 98 kg. Total burn duration was about 1289 s.
+
+
+according to this was thruster burns
+
+I think I saw somewhere else they observed a flash from thrusters too
+
+Why were initial reports saying it could have been an accident? Like a gas leak or something?
+
+
+says he is "95 percet confident" this was from "ullage burns"
+
+should look up what that actually is
+
+but think he is saying it was supposed to be firing thrusters (maybe to keep it pointing at sun?), not for the purposes of correcting orbit, but this is how things ended up anyway
