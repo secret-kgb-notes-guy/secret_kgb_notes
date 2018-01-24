@@ -91,3 +91,32 @@ https://en.wikipedia.org/wiki/Ullage_motor
 this says ullage is to clear gass out of fuel tanks and prepare the craft for a bigger burn
 
 Is it supposed to be doing that if its in standby mode?
+
+
+------
+
+
+https://sputniknews.com/analysis/20120201171071364/
+	On Tuesday morning the newspaper Kommersant, quoting sources from the space industry, reported that the malfunctioning Phobos-Grunt probe to Mars was the result of an error in its onboard computer caused by a software failure. This report was seen as an acknowledgement of a mistake in the computer program.
+
+	But in the afternoon, speaking at a meeting on Russia’s space effort, Vladimir Popovkin, Roscosmos director, added some details to the explanation. “Two sets were rebooted and so computer reverted to energy-saving and command-waiting mode,” confirming the story carried by Kommersant. Then he added a new twist: “The most likely cause, according to the commission, was the effect of heavily charged particles on the facility.”
+
+	Then he made another clarification. In his view, it was (probably) counterfeit microcircuits that were affected by the exposure. This reference was to imported components with a linear resolution in the lithographic process of 90 nm (instead of 200 nm as in previous equipment).
+
+	The facts and data disclosed by Popovkin can be interpreted tentatively and specifically as follows: the Phobos computational facility failed because of the degradation of its electronic core under the impact of cosmic particles.
+
+
+first one report says a software failure, then Roscosmos report concludes space rays (and media are skeptical), then Popovkin adds that he's concerned about counterfeit microcircuits. What's going on here?
+
+One way the "space rays" explanation is hard to believe: if I read right, Roscosmos found the ship was functional before and after the incident that caused the reboot occured. If the problem was the sheilding, you'd expect either things to be fine (good sheilding) or the computer to be unworkable (bad sheilding or no sheilding). But it looks like Roscosmos' official explanation requires us to believe that the sheilding (or radiation hardening of the chips) was just bad enough for the incident to occur at this critical moment after launch and not any time before or the weeks afterward.
+
+
+One helpful clue would be telemetry--if it includes a timestamp, that would tell you when the computer last rebooted. Apparently, the computer rebooted only once.
+
+
+------
+
+
+Why did Phobos Grunt fail?
+
+the "official" explanation gives the media leeway to come up with many different theories. There is sort-of an assumption that Roscosmos is lying to cover something up, with most alleging incompetence or corruption on their part. This leaves the rest to speculate, and that in and of itself helps to bury the story.
